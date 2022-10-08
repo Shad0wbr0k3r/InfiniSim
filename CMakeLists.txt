@@ -78,6 +78,8 @@ target_sources(infinisim PUBLIC
   sim/components/ble/AlertNotificationService.cpp
   sim/components/ble/MusicService.h
   sim/components/ble/MusicService.cpp
+  sim/components/ble/FitoTrackService.h
+  sim/components/ble/FitoTrackService.cpp
   sim/components/ble/NavigationService.h
   sim/components/ble/NavigationService.cpp
   sim/components/ble/NimbleController.h
